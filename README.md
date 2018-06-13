@@ -18,6 +18,8 @@ Sobre TDD:
 Como expliquei por vídeo, infelizmente, atualmente não tenho utilizado testes automatizados como gostaria mas conheço o conceito. Sempre testo manualmente meus códigos ao ponto de errar a maior quantidade de vezes possíveis mesmo que já tenha adquirido a resposta correta.
 Além do mais, com Laravel, temos [uma parte da documentação](https://laravel.com/docs/5.6/testing) só para isso! Creio que seja simples a implementação caso necessário dentro do projeto.
 
+![](https://scontent-gig2-1.xx.fbcdn.net/v/t1.0-9/35325189_1719953728040850_2317012896300662784_n.jpg?_nc_cat=0&oh=0b553c3388a39a710370d8c58bdc0774&oe=5B7A3236)
+
 Sobre Padrões de Projetos:
 --------------------------
 
